@@ -1,0 +1,9 @@
+# Supplied observations, generated products, and local environments.
+/python/data/
+/python/output/
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
