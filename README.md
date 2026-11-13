@@ -396,3 +396,7 @@ inspection shows magnetic field, field direction, speed and temperature;
 its end time is selected by the stated magnetic recovery rule.
 
 Study PI: **Fadil İnceoğlu**
+
+## License
+
+This code is licensed under the [MIT License](LICENSE).
